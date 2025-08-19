@@ -1,0 +1,25 @@
+{
+  "name": "raleigh",
+  "version": "1.0.0",
+  "description": "Powerful Reactive Framework based on EventEmitter, Signals, and Object Stream Operators",
+  "main": "index.js",
+  "scripts": {
+    "save": "git add .; git commit -m 'Updated Release'; git push; npm version patch; npm publish; git push;"
+  },
+  "keywords": [
+    "flow-based-programming",
+    "dataflow-programming",
+    "low-code",
+    "agent"
+  ],
+  "author": "@catpea",
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/catpea/raleigh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catpea/raleigh/issues"
+  },
+  "homepage": "https://github.com/catpea/raleigh#readme"
+}
