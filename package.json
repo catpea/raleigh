@@ -1,6 +1,6 @@
 {
   "name": "raleigh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Powerful Reactive Framework based on EventEmitter, Signals, and Object Stream Operators",
   "main": "index.js",
   "scripts": {
